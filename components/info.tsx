@@ -24,7 +24,7 @@ const Info: React.FC<InfoProps> = ({ data }) => {
           <h3 className="font-semibold text-black">Size:</h3>
           <div>{data.size.name}</div>
         </div>
-        <div className="flex items-center mt-2 gap-x-4">
+        <div className="flex items-center gap-x-4">
           <h3 className="font-semibold text-black">Color:</h3>
           <div
             className="h-6 w-6 rounded-full border border-gray-600"
