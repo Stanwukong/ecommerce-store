@@ -14,10 +14,12 @@
     "clsx": "^2.0.0",
     "lucide-react": "^0.279.0",
     "next": "latest",
+    "next-themes": "^0.2.1",
     "query-string": "^8.1.0",
     "react": "latest",
     "react-dom": "latest",
     "react-hot-toast": "^2.4.1",
+    "stripe": "^13.9.0",
     "tailwind-merge": "^1.14.0",
     "zustand": "^4.4.1"
   },
